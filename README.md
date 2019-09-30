@@ -7,24 +7,24 @@ This is a repository to create and store issues for creating new datasets in api
 Please reassign issues when your work is complete.
 
 **Data**
-- [ ] Add data to measures spreadsheet @ThorTheDestroyer
-- [ ] Route Data Shipment [copy data to TNRIS Projects share] @ThorTheDestroyer 
-- [ ] Data Processing [renaming file, data organization]  @ThorTheDestroyer
-- [ ] Creation of derivative products @ThorTheDestroyer
-- [ ] Quality Assurance @ThorTheDestroyer
+- [ ] Add data to measures spreadsheet @username-here
+- [ ] Route Data Shipment [copy data to TNRIS Projects share] @username-here
+- [ ] Data Processing [renaming file, data organization] @username-here
+- [ ] Creation of derivative products @username-here
+- [ ] Quality Assurance @username-here
 
 **DataHub**
-- [ ] Create collection @mitchellryant
-- [ ] Complete console collection form including metadata and description @ThorTheDestroyer 
-- [ ] Create Images, place on Website Dir @ThorTheDestroyer 
-- [ ] Crop & Upload Images @christoball 
-- [ ] Upload supplemental info (breaklines, reports, index) @ThorTheDestroyer <br/>_**If zip file is too large (more than 75MB) please let @mitchellryant know and the file can be loaded in another way.**_
-- [ ] Add resources @mitchellryant 
+- [ ] Create collection @username-here
+- [ ] Complete console collection form including metadata and description @username-here
+- [ ] Create Images, place on Website Dir @username-here 
+- [ ] Crop & Upload Images @username-here
+- [ ] Upload supplemental info (breaklines, reports, index) @username-here <br/>_**If zip file is too large (more than 75MB) please let @mitchellryant know and the file can be loaded in another way.**_
+- [ ] Add resources @username-here
 
 **Download\Prod**
-- [ ] Move data to production shares @mitchellryant 
-- [ ] Make collection public  @mitchellryant 
-- [ ] Inform TNRIS staff of data availability @mitchellryant 
+- [ ] Move data to production shares @username-here 
+- [ ] Make collection public  @username-here
+- [ ] Inform TNRIS staff of data availability @username-here 
 
 **News Article**
 * If you choose to write an article about the data release
