@@ -7,24 +7,24 @@ This is a repository to create and store issues for creating new datasets in api
 Please reassign issues when your work is complete.
 
 **Data**
-- [ ] Add data to measures spreadsheet @username-here
-- [ ] Route Data Shipment [copy data to TNRIS Projects share] @username-here
-- [ ] Data Processing [renaming file, data organization] @username-here
-- [ ] Creation of derivative products @username-here
-- [ ] Quality Assurance @username-here
+- [ ] Add data to measures spreadsheet __@username-here__
+- [ ] Route Data Shipment [copy data to TNRIS Projects share] __@username-here__
+- [ ] Data Processing [renaming file, data organization] __@username-here__
+- [ ] Creation of derivative products __@username-here__
+- [ ] Quality Assurance __@username-here__
 
 **DataHub**
-- [ ] Create collection @username-here
-- [ ] Complete console collection form including metadata and description @username-here
-- [ ] Create Images, place on Website Dir @username-here 
-- [ ] Crop & Upload Images @username-here
+- [ ] Create collection __@username-here__
+- [ ] Complete console collection form including metadata and description __@username-here__
+- [ ] Create Images, place on Website Dir __@username-here__
+- [ ] Crop & Upload Images __@username-here__
 - [ ] Upload supplemental info (breaklines, reports, index) @username-here <br/>_**If zip file is too large (more than 75MB) please let @mitchellryant know and the file can be loaded in another way.**_
-- [ ] Add resources @username-here
+- [ ] Add resources __@username-here__
 
 **Download\Prod**
-- [ ] Move data to production shares @username-here 
-- [ ] Make collection public  @username-here
-- [ ] Inform TNRIS staff of data availability @username-here 
+- [ ] Move data to production shares __@username-here__ 
+- [ ] Make collection public __@username-here__
+- [ ] Inform TNRIS staff of data availability __@username-here__ 
 
 **News Article**
 * If you choose to write an article about the data release
