@@ -19,7 +19,6 @@ Please reassign issues when your work is complete.
 **DataHub**
 - [ ] Create collection @mitchellryant
 - [ ] Complete console collection form including metadata and description @ThorTheDestroyer 
-- [ ] Create Images, place on Website Dir @ThorTheDestroyer 
 - [ ] Crop & Upload Images @mitchellryant 
 - [ ] Upload supplemental info (breaklines, reports, index) @ThorTheDestroyer<br/>_**If zip file is too large (more than 75MB) please let @mitchellryant know and the file can be loaded in another way.**_
 - [ ] Review Description @pwblanton https://api.tnris.org/admin/lcd/collection/
