@@ -23,7 +23,8 @@ stratmap19-landparcels_48001_anderson_201904.gdb
 
 **DataHub**
 - [ ] Create collection @mitchellryant
-- [ ] Complete console collection form including metadata and description @LaurenKirk 
+- [ ] Complete console collection form including metadata and description @LaurenKirk
+- [ ] Format Description to ensure customer readability and understanding. @LaurenKirk
 - [ ] Upload supplemental info (breaklines, reports, index) @LaurenKirk
 
 `If zip file is too large (more than 75MB) please let` @mitchellryant `know and the file can be loaded in another way.`
