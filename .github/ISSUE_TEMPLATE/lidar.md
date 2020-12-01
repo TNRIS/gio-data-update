@@ -31,5 +31,5 @@ Please reassign issues when work is complete. The owner of this issue is respons
 - [ ] Inform TNRIS staff of data availability @mitchellryant
 
 **Twitter**
-- [ ] Draft Tweet content, link, and image in Comment @LaurenKirk
+- [ ] Draft Tweet content, link, and image in Comment @ThorTheDestroyer
 - [ ] Post Tweet @geochik
