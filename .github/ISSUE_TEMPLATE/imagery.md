@@ -7,7 +7,8 @@ assignees: ThorTheDestroyer
 
 ---
 
-Please reassign issues when your work is complete.
+The owner of this issue (person who opened it) is responsible for ensuring each task is completed. 
+Please reassign issues when work is complete. The owner of this issue is responsible for checking in with workmates on progress of each task.
 
 **Data**
 - [ ] Enter dataset on StratMap Incoming data xlsx sheet @ThorTheDestroyer 
@@ -31,4 +32,5 @@ Please reassign issues when your work is complete.
 - [ ] Inform TNRIS staff of data availability @mitchellryant
 
 **Twitter**
-- [ ] Tweet completed collection link, statement,and image. @geochik.
+- [ ] Draft Tweet content, link, and image in Comment @LaurenKirk
+- [ ] Post Tweet @geochik
