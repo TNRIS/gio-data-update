@@ -38,4 +38,4 @@ stratmap19-addresspoints_48001_anderson_201904.gdb
 - [ ] Inform TNRIS staff of data availability @mitchellryant
 
 **Twitter**
-- [ ]Tweet completed collection link, statement,and image.
+- [ ] Tweet completed collection link, statement,and image. @geochik
