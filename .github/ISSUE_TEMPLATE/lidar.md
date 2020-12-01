@@ -30,4 +30,4 @@ Please reassign issues when your work is complete.
 - [ ] Inform TNRIS staff of data availability @mitchellryant
 
 **Twitter**
-*News Articles are dead, please discuss with Twitter team about Tweeting completed collection link.
+- [ ] Tweet completed collection link, statement,and image. @geochik
