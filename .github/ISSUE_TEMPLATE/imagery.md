@@ -23,10 +23,10 @@ Please reassign issues when work is complete. The owner of this issue is respons
 - [ ] Crop & Upload Images @ThorTheDestroyer
 - [ ] Upload supplemental info (breaklines, reports, index) @ThorTheDestroyer<br/>_**If zip file is too large (more than 75MB) please let @mitchellryant know and the file can be loaded in another way.**_
 - [ ] Review Description and Formatting @pwblanton https://api.tnris.org/admin/lcd/collection/
-- [ ] Add resources @ThorTheDestroyer
+- [ ] Add resources @mitchellryant
 
 **Download\Prod**
-- [ ]  Move data to production shares @mitchellryant
+- [ ] Move data to production shares @mitchellryant
 - [ ] Make collection public @mitchellryant
 - [ ] WMS Link @mitchellryant 
 - [ ] Inform TNRIS staff of data availability @mitchellryant
