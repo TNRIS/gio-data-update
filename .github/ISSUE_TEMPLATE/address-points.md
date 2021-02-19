@@ -37,7 +37,7 @@ stratmap19-addresspoints_48001_anderson_201904.gdb
 - [ ] Move data to production shares @mitchellryant 
 - [ ] Make collection public  @mitchellryant 
 - [ ] Inform TNRIS staff of data availability @mitchellryant
-- [ ] Update AGO Map to reflect new collection @LaurenKirk
+- [ ] Update AGO Map to reflect update @LaurenKirk
 
 **Twitter**
 - [ ] Draft Tweet content, link, and image in Comment @LaurenKirk
