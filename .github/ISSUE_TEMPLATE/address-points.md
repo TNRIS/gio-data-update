@@ -23,13 +23,13 @@ stratmap19-addresspoints_48001_anderson_201904.gdb
 - [ ] Quality Assurance @LaurenKirk
 
 **DataHub**
-- [ ] Create collection @mitchellryant
-- [ ] Complete console collection form including metadata and description @LaurenKirk 
+- [ ] Create API collection @mitchellryant
+- [ ] Complete API console collection form including metadata and description @LaurenKirk 
 - [ ] Upload supplemental info (breaklines, reports, index) @LaurenKirk
 
 `If zip file is too large (more than 75MB) please let` @mitchellryant `know and the file can be loaded in another way.`
-- [ ] Crop & Upload Images @mitchellryant
-- [ ] Review Description and Formatting@pwblanton
+- [ ] Crop & Upload Images @LaurenKirk
+- [ ] Review Description and Formatting @pwblanton
 - [ ] Add resources  @mitchellryant 
 
 
@@ -37,6 +37,7 @@ stratmap19-addresspoints_48001_anderson_201904.gdb
 - [ ] Move data to production shares @mitchellryant 
 - [ ] Make collection public  @mitchellryant 
 - [ ] Inform TNRIS staff of data availability @mitchellryant
+- [ ] Update AGO Map to reflect new collection @LaurenKirk
 
 **Twitter**
 - [ ] Draft Tweet content, link, and image in Comment @LaurenKirk
