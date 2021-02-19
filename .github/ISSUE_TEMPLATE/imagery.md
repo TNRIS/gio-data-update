@@ -18,8 +18,8 @@ Please reassign issues when work is complete. The owner of this issue is respons
 - [ ] Quality Assurance @ThorTheDestroyer
 
 **DataHub**
-- [ ] Create collection @mitchellryant
-- [ ] Complete console collection form including metadata and description @ThorTheDestroyer
+- [ ] Create API collection @mitchellryant
+- [ ] Complete API console collection form including metadata and description @ThorTheDestroyer
 - [ ] Crop & Upload Images @ThorTheDestroyer
 - [ ] Upload supplemental info (breaklines, reports, index) @ThorTheDestroyer<br/>_**If zip file is too large (more than 75MB) please let @mitchellryant know and the file can be loaded in another way.**_
 - [ ] Review Description and Formatting @pwblanton https://api.tnris.org/admin/lcd/collection/
