@@ -30,6 +30,7 @@ Please reassign issues when work is complete. The owner of this issue is respons
 - [ ] Update Lidar Selector feature class & downloadable index @mitchellryant
 - [ ] Make collection public  @mitchellryant 
 - [ ] Inform TNRIS staff of data availability @mitchellryant
+- [ ] Update AGO Map to reflect new collection @ThorTheDestroyer
 
 **Twitter**
 - [ ] Draft Tweet content, link, and image in Comment @ThorTheDestroyer
