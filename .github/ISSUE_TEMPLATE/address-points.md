@@ -22,7 +22,7 @@ stratmap19-addresspoints_48001_anderson_201904.gdb
 ```
 - [ ] Quality Assurance @LaurenKirk
 
-**DataHub**
+**API\data.tnris.org**
 - [ ] Create API collection @mitchellryant
 - [ ] Complete API console collection form including metadata and description @LaurenKirk 
 - [ ] Upload supplemental info (breaklines, reports, index) @LaurenKirk
