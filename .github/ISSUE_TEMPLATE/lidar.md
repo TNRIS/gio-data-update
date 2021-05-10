@@ -25,6 +25,13 @@ Please reassign issues when work is complete. The owner of this issue is respons
 - [ ] Review Description and Formatting @pwblanton https://api.tnris.org/admin/lcd/collection/
 - [ ] Add resources  @mitchellryant 
 
+**data.tnris.org v2**
+- [ ] Create Single part polygon to show data extent.
+- No Vertices, holes, or donuts (unless to directly shows in the data)
+- Boundary extent needs to be projected to 4326
+- Boundary extent shapefile need to be "Generalized" by 10m
+- Boundary extent shapefile will be uploaded to API console
+
 **Download\Prod**
 - [ ] Move data to production shares @mitchellryant
 - [ ] Update Lidar Selector feature class & downloadable index @mitchellryant
