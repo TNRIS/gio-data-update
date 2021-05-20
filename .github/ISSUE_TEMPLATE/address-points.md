@@ -33,7 +33,7 @@ stratmap19-addresspoints_48001_anderson_201904.gdb
 - [ ] Add resources  @mitchellryant 
 
 **data.tnris.org v2**
-- [ ] Create Single part polygon to show data extent.
+- [ ] Create Single part polygon to show data extent. @LaurenKirk
 - No Vertices, holes, or donuts (unless to directly shows in the data)
 - Boundary extent needs to be projected to 4326
 - Boundary extent shapefile need to be "Generalized" by 10m
