@@ -29,7 +29,7 @@ stratmap19-landparcels_48001_anderson_201904.gdb
 
 `If zip file is too large (more than 75MB) please let` @mitchellryant `know and the file can be loaded in another way.`
 - [ ] Crop & Upload Images @LaurenKirk 
-- [ ] Review Description and Formatting @pwblanton
+- [ ] Review Description and Formatting @pwblanton https://api.tnris.org/admin/lcd/collection/
 - [ ] Add resources  @mitchellryant 
 
 **data.tnris.org v2**
@@ -42,7 +42,7 @@ stratmap19-landparcels_48001_anderson_201904.gdb
 **Download\Prod**
 - [ ] Move data to production shares @mitchellryant 
 - [ ] Make collection public  @mitchellryant 
-- [ ] Inform TNRIS staff of data availability @mitchellryant
+- [ ] Inform TNRIS staff of data availability @LaurenKirk
 - [ ] Update AGO Map to reflect update @LaurenKirk
 
 **Twitter**
