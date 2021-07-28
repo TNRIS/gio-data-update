@@ -36,7 +36,7 @@ Please reassign issues when work is complete. The owner of this issue is respons
 - [ ] Move data to production shares @mitchellryant
 - [ ] Make collection public @mitchellryant
 - [ ] WMS Link @mitchellryant 
-- [ ] Inform TNRIS staff of data availability @mitchellryant
+- [ ] Inform TNRIS staff of data availability @ThorTheDestroyer
 
 **Twitter**
 - [ ] Draft Tweet content, link, and image in Comment @ThorTheDestroyer 
