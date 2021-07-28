@@ -36,7 +36,7 @@ Please reassign issues when work is complete. The owner of this issue is respons
 - [ ] Move data to production shares @mitchellryant
 - [ ] Update Lidar Selector feature class & downloadable index @mitchellryant
 - [ ] Make collection public  @mitchellryant 
-- [ ] Inform TNRIS staff of data availability @mitchellryant
+- [ ] Inform TNRIS staff of data availability @ThorTheDestroyer
 - [ ] Update AGO Map to reflect new collection @ThorTheDestroyer
 
 **Twitter**
