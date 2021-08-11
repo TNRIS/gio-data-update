@@ -25,12 +25,17 @@ Please reassign issues when work is complete. The owner of this issue is respons
 - [ ] Review Description and Formatting @pwblanton https://api.tnris.org/admin/lcd/collection/
 - [ ] Add resources  @mitchellryant 
 
-**data.tnris.org v2**
-- [ ] Create Single part polygon to show data extent. @ThorTheDestroyer
-- No Vertices, holes, or donuts (unless to directly shows in the data)
-- Boundary extent needs to be projected to 4326
-- Boundary extent shapefile need to be "Generalized" by 10m
-- Boundary extent shapefile will be uploaded to API console
+**data.tnris.org v2** @ThorTheDestroyer 
+- [ ] Create Single polygon coverage, by mergeing all polygons together.
+	If your area is county based please use the TxDOT Generalized Boundaries.
+	Use Editing Merge, not Merge Tool.    
+- [ ] No Vertices, holes, or donuts (unless to directly shows in the data)
+- [ ] Projected shape to 4326
+- [ ] Generalized shape by 10m
+- [ ] Create 50 Char Text field clalled "cllct_id"
+- [ ] Populate fied to be Collection ID, you can get this from the API console.
+- [ ] Convert shape file to json using Feature to JSON tool.
+- [ ] Load JSON into API console.
 
 **Download\Prod**
 - [ ] Move data to production shares @mitchellryant
