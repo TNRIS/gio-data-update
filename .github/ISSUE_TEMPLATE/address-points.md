@@ -33,15 +33,15 @@ stratmap19-addresspoints_48001_anderson_201904.gdb
 - [ ] Add resources  @mitchellryant 
 
 **data.tnris.org v2** @LaurenKirk
-- [ ] Create Single polygon coverage, by mergeing all polygons together.
+- [ ] Create Single polygon coverage, by merging all polygons together.
 	If your area is county based please use the TxDOT Generalized Boundaries.
 	Use Editing Merge, not Merge Tool.    
 - [ ] No Vertices, holes, or donuts (unless to directly shows in the data)
 - [ ] Projected shape to 4326
 - [ ] Generalized shape by 10m
-- [ ] Create 50 Char Text field clalled "cllct_id"
+- [ ] Create 50 Char Text field called "cllct_id"
 - [ ] Populate field to be Collection ID, you can get this from the API console.
-- [ ] Convert shape file to json using Feature to JSON tool.
+- [ ] Convert shape file to JSON using Feature to JSON tool.
 - [ ] Load JSON into API console.
 
 
