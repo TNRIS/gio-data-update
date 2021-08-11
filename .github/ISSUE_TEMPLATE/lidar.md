@@ -33,7 +33,7 @@ Please reassign issues when work is complete. The owner of this issue is respons
 - [ ] Projected shape to 4326
 - [ ] Generalized shape by 10m
 - [ ] Create 50 Char Text field clalled "cllct_id"
-- [ ] Populate fied to be Collection ID, you can get this from the API console.
+- [ ] Populate field to be Collection ID, you can get this from the API console.
 - [ ] Convert shape file to json using Feature to JSON tool.
 - [ ] Load JSON into API console.
 
