@@ -35,7 +35,7 @@ Please reassign issues when work is complete. The owner of this issue is respons
 - [ ] Create 50 Char Text field clalled "cllct_id"
 - [ ] Populate field to be Collection ID, you can get this from the API console.
 - [ ] Convert shape file to json using Feature to JSON tool.
-- [ ] Load JSON into API console.
+- [ ] Load JSON into API console. https://api.tnris.org/admin/lcd/collectionfootprint/
 
 **Download\Prod**
 - [ ] Move data to production shares @mitchellryant
