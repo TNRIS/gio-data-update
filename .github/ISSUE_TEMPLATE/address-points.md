@@ -42,7 +42,7 @@ stratmap19-addresspoints_48001_anderson_201904.gdb
 - [ ] Create 50 Char Text field called "cllct_id"
 - [ ] Populate field to be Collection ID, you can get this from the API console.
 - [ ] Convert shape file to JSON using Feature to JSON tool.
-- [ ] Load JSON into API console.
+- [ ] Load JSON into API console. https://api.tnris.org/admin/lcd/collectionfootprint/
 
 
 **Download\Prod**
