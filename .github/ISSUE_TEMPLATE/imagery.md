@@ -32,9 +32,7 @@ Please reassign issues when work is complete. The owner of this issue is respons
 - [ ] No Vertices, holes, or donuts (unless to directly shows in the data)
 - [ ] Projected shape to 4326
 - [ ] Generalized shape by 10m
-- [ ] Create 50 Char Text field clalled "cllct_id"
-- [ ] Populate field to be Collection ID, you can get this from the API console.
-- [ ] Convert shape file to json using Feature to JSON tool.
+- [ ] Convert shape file to json using Feature to JSON tool. Use Formatted and Geo Options
 - [ ] Load JSON into API console. https://api.tnris.org/admin/lcd/collectionfootprint/
 
 **Download\Prod**
