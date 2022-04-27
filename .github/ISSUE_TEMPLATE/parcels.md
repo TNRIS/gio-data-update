@@ -7,8 +7,8 @@ assignees: LaurenKirk
 
 ---
 
-The owner of this issue (person who opened it) is responsible for ensuring each task is completed. 
-Please reassign issues when work is complete. The owner of this issue is responsible for checking in with workmates on progress of each task.
+# ***The owner of this issue (person who opened it) is responsible for ensuring each task is completed.***
+## ***Please reassign issues when work is complete. The owner of this issue is responsible for checking in with workmates on progress of each task.***
 
 **Data**
 - [ ] Add data to measures spreadsheet @LaurenKirk 
