@@ -31,18 +31,15 @@ stratmap19-addresspoints_48001_anderson_201904.gdb
 - [ ] Crop & Upload Images @LaurenKirk
 - [ ] Review Description and Formatting @pwblanton https://api.tnris.org/admin/lcd/collection/
 - [ ] Add resources  @mitchellryant 
-
-**data.tnris.org v2** @LaurenKirk
-- [ ] Create Single polygon coverage, by merging all polygons together.
-	If your area is county based please use the TxDOT Generalized Boundaries.
-	Use Editing Merge, not Merge Tool.    
-- [ ] No Vertices, holes, or donuts (unless to directly shows in the data)
-- [ ] Projected shape to 4326
-- [ ] Generalized shape by 10m
-- [ ] Convert shape file to json using Feature to JSON tool. Use Formatted and Geo Options
-- [ ] Load JSON into API console. https://api.tnris.org/admin/lcd/collectionfootprint/
-
-
+- [ ] Create Single polygon coverage, by merging all polygons together. @LaurenKirk
+	1. If your area is county based please use the TxDOT Generalized Boundaries.
+	2. Use Editing Merge, not Merge Tool.    
+	3. No Vertices, holes, or donuts (unless to directly shows in the data)
+	4. Projected shape to 4326
+	5. Generalized shape by 10m
+	6. Convert shape file to json using Feature to JSON tool. Use Formatted and Geo Options
+	7. Load JSON into API console. https://api.tnris.org/admin/lcd/collectionfootprint/'
+	
 **Download\Prod**
 - [ ] Move data to production shares @mitchellryant 
 - [ ] Make collection public  @mitchellryant 
