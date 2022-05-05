@@ -1,5 +1,5 @@
 ---
-name: athymetry
+name: Bathymetry
 about: Incoming Bathymetry Dataset Collection
 title: "[Dataset Collection Name]"
 labels: Bathymetry, new dataset
