@@ -19,11 +19,11 @@ assignees: ThorTheDestroyer
 
 **API\data.tnris.org**
 - [ ] Create API collection @mitchellryant
-- [ ] Complete API console collection form including metadata and description @LaurenKirk 
-- [ ] Upload supplemental info (breaklines, reports, index) @LaurenKirk
+- [ ] Complete API console collection form including metadata and description @ThorTheDestroyer
+- [ ] Upload supplemental info (breaklines, reports, index) @ThorTheDestroyer
 
 `If zip file is too large (more than 75MB) please let` @mitchellryant `know and the file can be loaded in another way.`
-- [ ] Crop & Upload Images @LaurenKirk
+- [ ] Crop & Upload Images @ThorTheDestroyer
 - [ ] Review Description and Formatting @pwblanton https://api.tnris.org/admin/lcd/collection/
 - [ ] Add resources  @mitchellryant 
 - [ ] Create Single polygon coverage, by merging all polygons together. @ThorTheDestroyer
