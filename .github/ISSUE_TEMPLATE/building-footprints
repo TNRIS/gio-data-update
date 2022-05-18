@@ -6,18 +6,3 @@ labels: Building Footprints, new dataset
 assignees: mpavon
 
 ---
-
-# ***The owner of this issue (person who opened it) is responsible for ensuring each task is completed.***
-## ***Please reassign issues when work is complete. The owner of this issue is responsible for checking in with workmates on progress of each task.***
-
-**Data**
-- [ ] Data Processing [renaming file, data organization]  @mpavon
-```
-naming convention for shape and fgdb.
-stratmap_2020_balmorhea_davis_mountains_building_footprint.shp
-stratmap-2020-balmorhea-davis-mountains_3d-buildings.gdb
-```
-
-**Twitter**
-- [ ] Draft Tweet content, link, and image in Comment @mpavon
-- [ ] Post Tweet @lebell @space-longoria
