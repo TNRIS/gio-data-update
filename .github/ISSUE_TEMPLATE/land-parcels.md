@@ -2,7 +2,7 @@
 name: Parcels
 about: Incoming Parcel Dataset Collection
 title: "[Parcel Dataset Collection]"
-labels: Parcels, new dataset
+labels: new dataset, Parcels
 assignees: LaurenKirk
 
 ---
