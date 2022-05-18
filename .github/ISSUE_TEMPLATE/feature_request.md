@@ -7,14 +7,45 @@ assignees: 'mapvon'
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+# ***The owner of this issue (person who opened it) is responsible for ensuring each task is completed.***
+## ***Please reassign issues when work is complete. The owner of this issue is responsible for checking in with workmates on progress of each task.***
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Data**
+- [ ] Add data to measures spreadsheet @mpavon 
+- [ ] Route Data Shipment [copy data to TNRIS Projects share] @mpavon
+- [ ] Data Processing [renaming file, data organization]  @mpavon
+```
+naming convention for shape and fgdb.
+stratmap_2020_balmorhea_davis_mountains_building_footprint.shp
+stratmap-2020-balmorhea-davis-mountains_3d-buildings.gdb
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+```
+- [ ] Quality Assurance @mpavon
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**API\data.tnris.org**
+- [ ] Create API collection @mitchellryant
+- [ ] Complete API console collection form including metadata and description @mpavon 
+- [ ] Upload supplemental info (breaklines, reports, index) @mpavon
+
+`If zip file is too large (more than 75MB) please let` @mitchellryant `know and the file can be loaded in another way.`
+- [ ] Crop & Upload Images @mpavon
+- [ ] Review Description and Formatting @pwblanton https://api.tnris.org/admin/lcd/collection/
+- [ ] Add resources  @mitchellryant 
+- [ ] Create Single polygon coverage, by merging all polygons together. @mpavon
+	1. If your area is county based please use the TxDOT Generalized Boundaries.
+	2. Use Editing Merge, not Merge Tool.    
+	3. No Vertices, holes, or donuts (unless to directly shows in the data)
+	4. Projected shape to 4326
+	5. Generalized shape by 10m
+	6. Convert shape file to json using Feature to JSON tool. Use Formatted and Geo Options
+	7. Load JSON into API console. https://api.tnris.org/admin/lcd/collectionfootprint/'
+	
+**Download\Prod**
+- [ ] Move data to production shares @mitchellryant 
+- [ ] Make collection public  @mitchellryant 
+- [ ] Inform TNRIS staff of data availability @mpavon
+- [ ] Update AGO Map to reflect update @mpavon
+
+**Twitter**
+- [ ] Draft Tweet content, link, and image in Comment @mpavon
+- [ ] Post Tweet @lebell @space-longoria
