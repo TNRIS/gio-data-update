@@ -1,9 +1,9 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Building Footprints
+about: New Building Footprints for lidar collection or Update complete collection
 title: ''
 labels: ''
-assignees: ''
+assignees: 'mapvon'
 
 ---
 
