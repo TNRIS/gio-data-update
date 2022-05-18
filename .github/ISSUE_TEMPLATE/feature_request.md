@@ -17,7 +17,6 @@ assignees: 'mapvon'
 naming convention for shape and fgdb.
 stratmap_2020_balmorhea_davis_mountains_building_footprint.shp
 stratmap-2020-balmorhea-davis-mountains_3d-buildings.gdb
-
 ```
 
 **API\data.tnris.org**
