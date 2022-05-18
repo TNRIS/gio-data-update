@@ -19,6 +19,10 @@ naming convention for shape and fgdb.
 stratmap19-addresspoints_fipscode_countyname_date.extension
 stratmap19-addresspoints_48001_anderson_201904.shp
 stratmap19-addresspoints_48001_anderson_201904.gdb
+
+stratmap19-landparcels_fipscode_countyname_date.extension
+stratmap19-landparcels_48001_anderson_201904.shp
+stratmap19-landparcels_48001_anderson_201904.gdb
 ```
 - [ ] Quality Assurance @LaurenKirk
 
