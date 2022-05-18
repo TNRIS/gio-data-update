@@ -3,7 +3,7 @@ name: Building Footprints
 about: New Building Footprints for lidar collection or Update complete collection
 title: "[Building Footprints]"
 labels: Building Footprints, new dataset
-assignees: 'mapvon'
+assignees: mapvon
 
 ---
 
