@@ -20,9 +20,7 @@ stratmap-2020-balmorhea-davis-mountains_3d-buildings.gdb
 ```
 
 **API\data.tnris.org**
-- [ ] Create API collection @mitchellryant
-- [ ] Complete API console collection form including metadata and description @mpavon 
-- [ ] Upload supplemental info (breaklines, reports, index) @mpavon
+- [ ] Upload zipped footprints (breaklines, reports, index) @mpavon
 
 `If zip file is too large (more than 75MB) please let` @mitchellryant `know and the file can be loaded in another way.`
 - [ ] Crop & Upload Images @mpavon
