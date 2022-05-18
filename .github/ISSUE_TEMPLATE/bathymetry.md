@@ -42,4 +42,4 @@ assignees: ThorTheDestroyer
 
 **Twitter**
 - [ ] Draft Tweet content, link, and image in Comment @ThorTheDestroyer
-- [ ] Post Tweet @geochik
+- [ ] Post Tweet @lebell @space-longoria
