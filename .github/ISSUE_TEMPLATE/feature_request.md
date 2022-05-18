@@ -11,8 +11,7 @@ assignees: 'mapvon'
 ## ***Please reassign issues when work is complete. The owner of this issue is responsible for checking in with workmates on progress of each task.***
 
 **Data**
-- [ ] Add data to measures spreadsheet @mpavon 
-- [ ] Route Data Shipment [copy data to TNRIS Projects share] @mpavon
+- [ ] Quality Assurance @mpavon
 - [ ] Data Processing [renaming file, data organization]  @mpavon
 ```
 naming convention for shape and fgdb.
@@ -20,7 +19,6 @@ stratmap_2020_balmorhea_davis_mountains_building_footprint.shp
 stratmap-2020-balmorhea-davis-mountains_3d-buildings.gdb
 
 ```
-- [ ] Quality Assurance @mpavon
 
 **API\data.tnris.org**
 - [ ] Create API collection @mitchellryant
