@@ -24,7 +24,6 @@ stratmap-2020-balmorhea-davis-mountains_3d-buildings.gdb
 	
 **Download\Prod**
 - [ ] Move data to production shares @mitchellryant 
-- [ ] Make collection public  @mitchellryant 
 - [ ] Inform TNRIS staff of data availability @mpavon
 - [ ] Update AGO Map to reflect update @mpavon
 
