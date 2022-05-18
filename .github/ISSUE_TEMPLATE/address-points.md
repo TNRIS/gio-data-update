@@ -48,4 +48,4 @@ stratmap19-addresspoints_48001_anderson_201904.gdb
 
 **Twitter**
 - [ ] Draft Tweet content, link, and image in Comment @LaurenKirk
-- [ ] Post Tweet @geochik
+- [ ] Post Tweet @lebell @space-longoria
