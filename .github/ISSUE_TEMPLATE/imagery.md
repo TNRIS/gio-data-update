@@ -38,7 +38,7 @@ assignees: ThorTheDestroyer
 **Download\Prod**
 - [ ] Move data to production shares @mitchellryant
 - [ ] Make collection public @mitchellryant
-- [ ] WMS Link @mitchellryant 
+- [ ] Web Service Link(s) @mitchellryant 
 - [ ] Inform TNRIS staff of data availability @ThorTheDestroyer
 
 **Twitter**
