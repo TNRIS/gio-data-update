@@ -12,6 +12,7 @@ assignees: mitchellryant
 
 **Data**
 - [ ] Download data from source
+- [ ] Place data on network or S3
 - [ ] Data Processing [renaming file, data organization] @mitchellryant
 - [ ] Quality Assurance @mitchellryant
 ```
@@ -28,5 +29,5 @@ stratmap-2020-balmorhea-davis-mountains_3d-buildings.gdb
 
 
 **Twitter**
-- [ ] Draft Tweet content, link, and image in Comment @mpavon
+- [ ] Draft Tweet content, link, and image in Comment 
 - [ ] Post Tweet @lebell @space-longoria
