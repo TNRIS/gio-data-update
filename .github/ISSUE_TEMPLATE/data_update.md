@@ -3,7 +3,7 @@ name: Data Update
 about: Data Update for an existing collection
 title: "[Data Update]"
 labels: Data Update, new dataset
-assignees: mitchellryant, ThorTheDestroyer
+assignees: ThorTheDestroyer, csidenblad, LaurenKirk. mitchellryant
 
 ---
 
