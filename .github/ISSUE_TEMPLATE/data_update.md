@@ -3,7 +3,7 @@ name: Data Update
 about: Data Update for an existing collection
 title: "[Data Update]"
 labels: Data Update, new dataset
-assignees: mitchellryant
+assignees: mitchellryant, ThorTheDestroyer
 
 ---
 
@@ -19,10 +19,12 @@ assignees: mitchellryant
 **API\data.tnris.org**
 - [ ] Upload updated data
 - [ ] Update Aquistion Date
-- [ ] UPdate Publication Date @mitchellryant
+- [ ] Update Publication Date @mitchellryant
 	
 **Download\Prod**
-- [ ] Move data to production shares 
+- [ ] Move data to production shares @mitchellryant
+- [ ] Web Service Link(s) @mitchellryant
+- [ ] Inform TNRIS staff of data availability @ThorTheDestroyer
 
 **Twitter**
 - [ ] Draft Tweet content, link, and image in Comment 
