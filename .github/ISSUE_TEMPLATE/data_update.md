@@ -3,7 +3,7 @@ name: Data Update
 about: Data Update for an existing collection
 title: "[Data Update]"
 labels: Data Update, new dataset
-assignees: ThorTheDestroyer, csidenblad, LaurenKirk. mitchellryant
+assignees: ThorTheDestroyer, csidenblad, LaurenKirk, mitchellryant
 
 ---
 
@@ -24,7 +24,7 @@ assignees: ThorTheDestroyer, csidenblad, LaurenKirk. mitchellryant
 **Download\Prod**
 - [ ] Move data to production shares @mitchellryant
 - [ ] Web Service Link(s) @mitchellryant
-- [ ] Inform TNRIS staff of data availability @ThorTheDestroyer
+- [ ] Inform TNRIS staff of data availability
 
 **Twitter**
 - [ ] Draft Tweet content, link, and image in Comment 
