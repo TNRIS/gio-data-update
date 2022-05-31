@@ -11,9 +11,10 @@ assignees: ThorTheDestroyer, csidenblad, LaurenKirk, mitchellryant
 ## ***Please reassign issues when work is complete. The owner of this issue is responsible for checking in with workmates on progress of each task.***
 
 **Data**
+- [ ] Add data to measures spreadsheet
 - [ ] Download data from source
 - [ ] Place data on network or S3
-- [ ] Data Processing [renaming file, data organization]
+- [ ] Data Processing [renaming file, data organization] per given naming convention
 - [ ] Quality Assurance
 
 **API\data.tnris.org**
