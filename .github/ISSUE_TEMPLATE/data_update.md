@@ -13,20 +13,16 @@ assignees: mitchellryant
 **Data**
 - [ ] Download data from source
 - [ ] Place data on network or S3
-- [ ] Data Processing [renaming file, data organization] @mitchellryant
-- [ ] Quality Assurance @mitchellryant
-```
-naming convention for shape and fgdb.
-stratmap_2020_balmorhea_davis_mountains_building_footprint.shp
-stratmap-2020-balmorhea-davis-mountains_3d-buildings.gdb
-```
+- [ ] Data Processing [renaming file, data organization]
+- [ ] Quality Assurance
 
 **API\data.tnris.org**
-- [ ] Upload updated data (breaklines, reports, index) @mitchellryant
+- [ ] Upload updated data
+- [ ] Update Aquistion Date
+- [ ] UPdate Publication Date @mitchellryant
 	
 **Download\Prod**
-- [ ] Move data to production shares @mitchellryant 
-
+- [ ] Move data to production shares 
 
 **Twitter**
 - [ ] Draft Tweet content, link, and image in Comment 
