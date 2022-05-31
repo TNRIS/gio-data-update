@@ -24,7 +24,7 @@ assignees: ThorTheDestroyer, csidenblad, LaurenKirk, mitchellryant
 	
 **Download\Prod**
 - [ ] Move data to production shares @mitchellryant
-- [ ] Web Service Link(s) @mitchellryant
+- [ ] Update Web Service and API collection link(s) @mitchellryant
 - [ ] Inform TNRIS staff of data availability
 
 **Twitter**
