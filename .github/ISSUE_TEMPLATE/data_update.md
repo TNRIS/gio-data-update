@@ -19,14 +19,14 @@ assignees: ThorTheDestroyer, csidenblad, LaurenKirk, mitchellryant
 - [ ] Quality Assurance
 
 **API\data.tnris.org**
-- [ ] Upload updated data
-- [ ] Update Aquistion Date
-- [ ] Update Publication Date @mitchellryant
+- [ ] Upload updated data @mitchellryant
+- [ ] Update Aquistion Date ***(if necessary)*** @mitchellryant
+- [ ] Update Publication Date ***(if necessary)*** @mitchellryant
 	
 **Download\Prod**
 - [ ] Move data to production shares @mitchellryant
-- [ ] Update Web Service and API collection link(s) @mitchellryant
-- [ ] Inform TNRIS staff of data availability
+- [ ] Update Web Service and API collection link(s) ***(if necessary)*** @mitchellryant
+- [ ] Inform TNRIS staff of data availability ***(if necessary)***
 
 **Twitter**
 - [ ] Draft Tweet content, link, and image in Comment 
