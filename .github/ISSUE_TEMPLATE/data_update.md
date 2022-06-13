@@ -28,6 +28,6 @@ assignees: ThorTheDestroyer, csidenblad, LaurenKirk, mitchellryant
 - [ ] Update Web Service and API collection link(s) ***(if necessary)*** @mitchellryant
 - [ ] Inform TNRIS staff of data availability ***(if necessary)***
 
-**Twitter**
+**Twitter** ***(if desired)***
 - [ ] Draft Tweet content, link, and image in Comment 
 - [ ] Post Tweet @lebell @space-longoria
