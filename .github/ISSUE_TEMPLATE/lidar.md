@@ -3,7 +3,7 @@ name: Lidar
 about: Incoming Lidar Dataset Collection
 title: "[Dataset Collection Name]"
 labels: Lidar, new dataset
-assignees: ThorTheDestroyer
+assignees: ThorTheDestroyer, csidenblad
 
 ---
 
