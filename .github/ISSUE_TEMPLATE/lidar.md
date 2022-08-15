@@ -3,7 +3,7 @@ name: Lidar
 about: Incoming Lidar Dataset Collection
 title: "[Dataset Collection Name]"
 labels: Lidar, new dataset
-assignees: ThorTheDestroyer, csidenblad
+assignees: ThorTheDestroyer
 
 ---
 
@@ -14,7 +14,7 @@ assignees: ThorTheDestroyer, csidenblad
 **Data**
 - [ ] Add data to measures spreadsheet @ThorTheDestroyer
 - [ ] Route Data Shipment [copy data to TNRIS Projects share] @ThorTheDestroyer 
-- [ ] Data Processing [renaming file, data organization, data conversion]  @csidenblad 
+- [ ] Data Processing [renaming file, data organization, data conversion]  @ThorTheDestroyer
 - [ ] Creation of derivative products [hypso and metadata] @ThorTheDestroyer
 - [ ] Quality Assurance @ThorTheDestroyer
 
