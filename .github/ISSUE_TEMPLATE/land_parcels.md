@@ -24,14 +24,14 @@ stratmap19-landparcels_48001_anderson_201904.gdb
 - [ ] Quality Assurance @LaurenKirk
 
 **API\data.tnris.org**
-- [ ] Create API collection @mitchellryant
+- [ ] Create API collection @csidenblad
 - [ ] Complete API console collection form including metadata and description @LaurenKirk 
 - [ ] Upload supplemental info (breaklines, reports, index) @LaurenKirk
 
-`If zip file is too large (more than 75MB) please let` @mitchellryant `know and the file can be loaded in another way.`
+`If zip file is too large (more than 75MB) please let` @csidenblad `know and the file can be loaded in another way.`
 - [ ] Crop & Upload Images @LaurenKirk
 - [ ] Review Description and Formatting @pwblanton https://api.tnris.org/admin/lcd/collection/
-- [ ] Add resources  @mitchellryant 
+- [ ] Add resources  @csidenblad 
 - [ ] Create Single polygon coverage, by merging all polygons together. @LaurenKirk
 	1. If your area is county based please use the TxDOT Generalized Boundaries.
 	2. Use Editing Merge, not Merge Tool.    
@@ -42,8 +42,8 @@ stratmap19-landparcels_48001_anderson_201904.gdb
 	7. Load JSON into API console. https://api.tnris.org/admin/lcd/collectionfootprint/
 
 **Download\Prod**
-- [ ] Move data to production shares @mitchellryant 
-- [ ] Make collection public  @mitchellryant 
+- [ ] Move data to production shares @csidenblad 
+- [ ] Make collection public  @csidenblad 
 - [ ] Inform TNRIS staff of data availability @LaurenKirk
 - [ ] Update AGO Map to reflect update @LaurenKirk
 
