@@ -12,9 +12,9 @@ assignees: csidenblad, mpavon
 ## ***Please remove any task(s) that do not apply***
 
 **Data**
-- [ ] Download data from source @mpavon
+- [ ] Process and export data  @mpavon
 - [ ] Add data to measures spreadsheet 
-- [ ] Place data on network or S3 @mpavon
+- [ ] Place data on network @mpavon
 - [ ] Data Processing [renaming file, data organization] per given naming convention @mpavon
 - [ ] Quality Assurance @mpavon
 	
