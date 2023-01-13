@@ -23,4 +23,4 @@ assignees: csidenblad, mpavon
 	
 **Download\Prod**
 - [ ] Update Web Service @csidenblad
-- [ ] Confirm update and close issue
+- [ ] Confirm update and close issue @mpavon
