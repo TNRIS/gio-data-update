@@ -12,11 +12,15 @@ assignees: csidenblad, mpavon
 ## ***Please remove any task(s) that do not apply***
 
 **Data**
-- [ ] Process and export data  @mpavon
-- [ ] Add data to measures spreadsheet 
+
+- [ ] Data Processing and Export  [renaming file, data organization] per given naming convention @mpavon
+	Folder Name : 8 digit date YYYYMMDD  EX: 20230112
+	GDB Name: fdst_Buildings_YYYYMMDD 
+	Feature Class Name: TexasFloodBuildings
 - [ ] Place data on network @mpavon
-- [ ] Data Processing [renaming file, data organization] per given naming convention @mpavon
+- [ ] Add data to measures spreadsheet 
 - [ ] Quality Assurance @mpavon
 	
 **Download\Prod**
 - [ ] Update Web Service @csidenblad
+- [ ] Confirm update and close issue
