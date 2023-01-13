@@ -14,9 +14,9 @@ assignees: csidenblad, mpavon
 **Data**
 
 - [ ] Data Processing and Export  [renaming file, data organization] per given naming convention @mpavon
-	Folder Name : 8 digit date YYYYMMDD  EX: 20230112
-	GDB Name: fdst_Buildings_YYYYMMDD 
-	Feature Class Name: TexasFloodBuildings
+	- Folder Name : 8 digit date YYYYMMDD  EX: 20230112
+	- GDB Name: fdst_Buildings_YYYYMMDD 
+	- Feature Class Name: TexasFloodBuildings
 - [ ] Place data on network @mpavon
 - [ ] Add data to measures spreadsheet 
 - [ ] Quality Assurance @mpavon
