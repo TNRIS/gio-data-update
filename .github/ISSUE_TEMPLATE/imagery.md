@@ -3,7 +3,7 @@ name: Imagery
 about: Incoming Imagery Dataset Collection
 title: "[Imagery Dataset Collection]"
 labels: Imagery, new dataset
-assignees: ThorTheDestroyer, laurenkirk
+assignees: laurenkirk
 
 ---
 
@@ -12,22 +12,22 @@ assignees: ThorTheDestroyer, laurenkirk
 ## ***Please remove any task(s) that do not apply***
 
 **Data**
-- [ ] Enter dataset on StratMap Incoming data xlsx sheet @ThorTheDestroyer 
-- [ ] Route Data Shipment (copy data to TNRIS Projects share) @ThorTheDestroyer 
+- [ ] Enter dataset on StratMap Incoming data xlsx sheet @LaurenKirk
+- [ ] Route Data Shipment (copy data to TNRIS Projects share) @LaurenKirk 
 - [ ] Data Processing (renaming file, data organization) @csidenblad
-- [ ] Creation of derivative products [compressed images] @ThorTheDestroyer 
-- [ ] Quality Assurance @ThorTheDestroyer
+- [ ] Creation of derivative products [compressed images] @LaurenKirk
+- [ ] Quality Assurance @LaurenKirk
 
 **API\data.tnris.org**
 - [ ] Create API collection @csidenblad
-- [ ] Complete API console collection form including metadata and description @ThorTheDestroyer
-- [ ] Upload supplemental info (breaklines, reports, index) @ThorTheDestroyer
+- [ ] Complete API console collection form including metadata and description @LaurenKirk
+- [ ] Upload supplemental info (breaklines, reports, index) @LaurenKirk
 
 `If zip file is too large (more than 75MB) please let` @csidenblad `know and the file can be loaded in another way.`
-- [ ] Crop & Upload Images @ThorTheDestroyer
+- [ ] Crop & Upload Images @LaurenKirk
 - [ ] Review Description and Formatting @pwblanton https://api.tnris.org/admin/lcd/collection/
 - [ ] Add resources  @csidenblad
-- [ ] Create Single polygon coverage, by merging all polygons together. @ThorTheDestroyer
+- [ ] Create Single polygon coverage, by merging all polygons together. @LaurenKirk
 	1. If your area is county based please use the TxDOT Generalized Boundaries.
 	2. Use Editing Merge, not Merge Tool.    
 	3. No Vertices, holes, or donuts (unless to directly shows in the data)
@@ -40,8 +40,8 @@ assignees: ThorTheDestroyer, laurenkirk
 - [ ] Move data to production shares @csidenblad
 - [ ] Make collection public @csidenblad
 - [ ] Web Service Link(s) @csidenblad 
-- [ ] Inform TNRIS staff of data availability @ThorTheDestroyer
+- [ ] Inform TNRIS staff of data availability @LaurenKirk
 
 **Twitter**
-- [ ] Draft Tweet content, link, and image in Comment @ThorTheDestroyer 
+- [ ] Draft Tweet content, link, and image in Comment @LaurenKirk 
 - [ ] Post Tweet @lebell @space-longoria
