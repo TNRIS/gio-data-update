@@ -25,7 +25,7 @@ assignees: birdladyellen
 
 `If zip file is too large (more than 75MB) please let` @csidenblad `know and the file can be loaded in another way.`
 - [ ] Crop & Upload Images @birdladyellen
-- [ ] Review Description and Formatting @pwblanton https://api.tnris.org/admin/lcd/collection/
+- [ ] Review Description and Formatting @birdladyellen/
 - [ ] Add resources  @csidenblad 
 - [ ] Create Single polygon coverage, by merging all polygons together. @birdladyellen
 	1. If your area is county based please use the TxDOT Generalized Boundaries.
