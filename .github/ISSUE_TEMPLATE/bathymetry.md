@@ -42,5 +42,5 @@ assignees: @birdladyellen
 - [ ] Inform TNRIS staff of data availability @birdladyellen
 
 **Twitter**
-- [ ] Draft Tweet content, link, and image in Comment @birdladyellen
-- [ ] Post Tweet @lebell @space-longoria
+- [ ] Draft X content, link, and image in Comment @birdladyellen
+- [ ] Post X @lebell @space-longoria
