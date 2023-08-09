@@ -49,5 +49,5 @@ stratmap19-addresspoints_48001_anderson_201904.gdb
 - [ ] Update AGO Map to reflect update @LaurenKirk
 
 **Twitter**
-- [ ] Draft Tweet content, link, and image in Comment @LaurenKirk
-- [ ] Post Tweet @lebell @space-longoria
+- [ ] Draft X content, link, and image in Comment @LaurenKirk
+- [ ] Post X @lebell @space-longoria
