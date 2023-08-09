@@ -29,5 +29,5 @@ assignees: ThorTheDestroyer, csidenblad, LaurenKirk
 - [ ] Inform TNRIS staff of data availability ***(if necessary)***
 
 **Twitter** ***(if desired)***
-- [ ] Draft Tweet content, link, and image in Comment 
-- [ ] Post Tweet @lebell @space-longoria
+- [ ] Draft X content, link, and image in Comment 
+- [ ] Post X @lebell @space-longoria
