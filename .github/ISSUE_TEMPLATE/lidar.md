@@ -19,14 +19,14 @@ assignees: birdladyellen
 - [ ] Quality Assurance @birdladyellen
 
 **API\data.tnris.org**
-- [ ] Create API collection @csidenblad
+- [ ] Create API collection @TNRIS/git-sba
 - [ ] Complete API console collection form including metadata and description @birdladyellen 
 - [ ] Upload supplemental info (breaklines, reports, index) @birdladyellen
 
-`If zip file is too large (more than 75MB) please let` @csidenblad `know and the file can be loaded in another way.`
+`If zip file is too large (more than 75MB) please let` @TNRIS/git-sba `know and the file can be loaded in another way.`
 - [ ] Crop & Upload Images @birdladyellen
 - [ ] Review Description and Formatting @birdladyellen
-- [ ] Add resources  @csidenblad 
+- [ ] Add resources  @TNRIS/git-sba 
 - [ ] Create Single polygon coverage, by merging all polygons together. @birdladyellen
 	1. If your area is county based please use the TxDOT Generalized Boundaries.
 	2. Use Editing Merge, not Merge Tool.    
@@ -37,9 +37,9 @@ assignees: birdladyellen
 	7. Load JSON into API console. https://api.tnris.org/admin/lcd/collectionfootprint/
 
 **Download\Prod**
-- [ ] Move data to production shares @csidenblad
-- [ ] Update Lidar Selector feature class & downloadable index @csidenblad
-- [ ] Make collection public  @csidenblad
+- [ ] Move data to production shares @TNRIS/git-sba
+- [ ] Update Lidar Selector feature class & downloadable index @TNRIS/git-sba
+- [ ] Make collection public  @TNRIS/git-sba
 - [ ] Inform TNRIS staff of data availability @birdladyellen
 - [ ] Update AGO Map to reflect new collection @birdladyellen
 
