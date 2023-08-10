@@ -14,19 +14,19 @@ assignees: laurenkirk
 **Data**
 - [ ] Enter dataset on StratMap Incoming data xlsx sheet @LaurenKirk
 - [ ] Route Data Shipment (copy data to TNRIS Projects share) @LaurenKirk 
-- [ ] Data Processing (renaming file, data organization) @csidenblad
+- [ ] Data Processing (renaming file, data organization) @LaurenLirk
 - [ ] Creation of derivative products [compressed images] @LaurenKirk
 - [ ] Quality Assurance @LaurenKirk
 
 **API\data.tnris.org**
-- [ ] Create API collection @csidenblad
+- [ ] Create API collection @TNRIS/git-sba
 - [ ] Complete API console collection form including metadata and description @LaurenKirk
 - [ ] Upload supplemental info (breaklines, reports, index) @LaurenKirk
 
-`If zip file is too large (more than 75MB) please let` @csidenblad `know and the file can be loaded in another way.`
+`If zip file is too large (more than 75MB) please let` @TNRIS/git-sba `know and the file can be loaded in another way.`
 - [ ] Crop & Upload Images @LaurenKirk
 - [ ] Review Description and Formatting @LaurenKirk
-- [ ] Add resources  @csidenblad
+- [ ] Add resources @TNRIS/git-sba
 - [ ] Create Single polygon coverage, by merging all polygons together. @LaurenKirk
 	1. If your area is county based please use the TxDOT Generalized Boundaries.
 	2. Use Editing Merge, not Merge Tool.    
@@ -37,9 +37,9 @@ assignees: laurenkirk
 	7. Load JSON into API console. https://api.tnris.org/admin/lcd/collectionfootprint/
 
 **Download\Prod**
-- [ ] Move data to production shares @csidenblad
-- [ ] Make collection public @csidenblad
-- [ ] Web Service Link(s) @csidenblad 
+- [ ] Move data to production shares @TNRIS/git-sba
+- [ ] Make collection public @TNRIS/git-sba
+- [ ] Web Service Link(s) @TNRIS/git-sba 
 - [ ] Inform TNRIS staff of data availability @LaurenKirk
 
 **Twitter**
