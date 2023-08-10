@@ -2,7 +2,7 @@
 name: Bathymetry
 about: Incoming Bathymetry Dataset Collection
 title: "[Dataset Collection Name]"
-labels: Bathymetry,new dataset
+labels: Bathymetry, new dataset
 assignees: @birdladyellen
 
 ---
