@@ -3,7 +3,7 @@ name: Data Update
 about: Data Update for an existing collection
 title: "[Data Update]"
 labels: Data Update, new dataset
-assignees: ThorTheDestroyer, csidenblad, LaurenKirk
+assignees: ThorTheDestroyer, TNRIS/git-sba, LaurenKirk
 
 ---
 
@@ -19,13 +19,13 @@ assignees: ThorTheDestroyer, csidenblad, LaurenKirk
 - [ ] Quality Assurance
 
 **API\data.tnris.org**
-- [ ] Upload updated data @csidenblad
-- [ ] Update Aquistion Date ***(if necessary)*** @csidenblad
-- [ ] Update Publication Date ***(if necessary)*** @csidenblad
+- [ ] Upload updated data @TNRIS/git-sba
+- [ ] Update Aquistion Date ***(if necessary)*** @TNRIS/git-sba
+- [ ] Update Publication Date ***(if necessary)*** @TNRIS/git-sba
 	
 **Download\Prod**
-- [ ] Move data to production shares @csidenblad
-- [ ] Update Web Service and API collection link(s) ***(if necessary)*** @csidenblad
+- [ ] Move data to production shares @TNRIS/git-sba
+- [ ] Update Web Service and API collection link(s) ***(if necessary)*** @TNRIS/git-sba
 - [ ] Inform TNRIS staff of data availability ***(if necessary)***
 
 **Twitter** ***(if desired)***
