@@ -43,6 +43,14 @@ assignees: birdladyellen
 - [ ] Inform TNRIS staff of data availability @birdladyellen
 - [ ] Update AGO Map to reflect new collection @birdladyellen
 
+**QA|QC** 
+ **(if collection is made public before 10am you can check after views are refreshed that day)**
+ **(if collection is made public after 10am you can check after views are refreshed the next day)**
+- [ ] Review new collection card after it appears on data.tnris.org @TNRIS/stratmap 
+    1. Visually review text wording & formatting
+    2. All metadata complete and correct
+    3. Collection Footprint drawing properly
+
 **Twitter**
 - [ ] Draft X content, link, and image in Comment @birdladyellen
 - [ ] Post X @lebell @space-longoria
