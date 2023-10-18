@@ -26,7 +26,7 @@ assignees: ThorTheDestroyer, TNRIS/git-sba, LaurenKirk
 **Download\Prod**
 - [ ] Move data to production shares @TNRIS/git-sba
 - [ ] Update Web Service and API collection link(s) ***(if necessary)*** @TNRIS/git-sba
-- [ ] Inform TNRIS staff of data availability ***(if necessary)***
+- [ ] Inform GIO staff of data availability ***(if necessary)***
 
 **Twitter** ***(if desired)***
 - [ ] Draft X content, link, and image in Comment 
