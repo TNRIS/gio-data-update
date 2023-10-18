@@ -40,7 +40,7 @@ assignees: birdladyellen
 - [ ] Move data to production shares @TNRIS/git-sba
 - [ ] Update Lidar Selector feature class & downloadable index @TNRIS/git-sba
 - [ ] Make collection public  @TNRIS/git-sba
-- [ ] Inform TNRIS staff of data availability @birdladyellen
+- [ ] Inform GIO staff of data availability @birdladyellen
 - [ ] Update AGO Map to reflect new collection @birdladyellen
 
 **QA|QC** 
