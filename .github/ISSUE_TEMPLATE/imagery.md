@@ -40,7 +40,7 @@ assignees: laurenkirk
 - [ ] Move data to production shares @TNRIS/git-sba
 - [ ] Make collection public @TNRIS/git-sba
 - [ ] Web Service Link(s) @TNRIS/git-sba 
-- [ ] Inform TNRIS staff of data availability @LaurenKirk
+- [ ] Inform GIO staff of data availability @LaurenKirk
 
 **QA|QC** 
  **(if collection is made public before 10am you can check after views are refreshed that day)**
