@@ -45,8 +45,7 @@ stratmap19-addresspoints_48001_anderson_201904.gdb
 **Download\Prod**
 - [ ] Move data to production shares @TNRIS/git-sba
 - [ ] Make collection public  @TNRIS/git-sba
-- [ ] Inform TNRIS staff of data availability @LaurenKirk
-- [ ] Update AGO Map to reflect update @LaurenKirk
+- [ ] Inform GIO staff of data availability @LaurenKirk
 
 **QA|QC** 
  **(if collection is made public before 10am you can check after views are refreshed that day)**
