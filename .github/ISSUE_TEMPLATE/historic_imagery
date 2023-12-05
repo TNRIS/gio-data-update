@@ -13,7 +13,7 @@ assignees: A-M-Pearce
 
 **Data**
 - [ ] Add data to measures spreadsheet @A-M-Pearce 
-- [ ] Route Data Shipment [copy data to TNRIS Projects share] @A-M-Pearce
+- [ ] Route Data Shipment [copy data to TxGIO Projects share] @A-M-Pearce
 - [ ] Data Processing [renaming file, data organization]  @A-M-Pearce
 ```
 naming convention for shape and fgdb.
