@@ -15,12 +15,12 @@ assignees: A-M-Pearce
 - [ ] Add data to measures spreadsheet @A-M-Pearce 
 - [ ] Route Data Shipment [copy data to TxGIO Projects share] @A-M-Pearce
 - [ ] Data Processing [renaming file, data organization]  @A-M-Pearce
+
 ```
 naming convention for shape and fgdb.
 folder: agency-year-mission
 subfolder(s): frame & index
 file(s): MM-DD-YY_Roll-Frame.* 
-
 ```
 - [ ] Quality Assurance @A-M-Pearce
 
@@ -28,7 +28,3 @@ file(s): MM-DD-YY_Roll-Frame.*
 - [ ] Move data to production shares @TNRIS/git-sba
 - [ ] Make collection public  @TNRIS/git-sba
 - [ ] Inform GIO staff of data availability @A-M-Pearce
-
-**Twitter**
-- [ ] Draft X content, link, and image in Comment @A-M-Pearce
-- [ ] Post X @lebell @space-longoria
