@@ -17,7 +17,7 @@ assignees: A-M-Pearce
 - [ ] Data Processing [renaming file, data organization]  @A-M-Pearce
 
 ```
-naming convention for shape and fgdb.
+naming convention for folders and files.
 folder: agency-year-mission
 subfolder(s): frame & index
 file(s): MM-DD-YY_Roll-Frame.* 
