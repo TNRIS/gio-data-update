@@ -17,7 +17,9 @@ assignees: A-M-Pearce
 - [ ] Data Processing [renaming file, data organization]  @A-M-Pearce
 ```
 naming convention for shape and fgdb.
-
+folder: agency-year-mission
+subfolder(s): frame & index
+file(s): MM-DD-YY_Roll-Frame.* 
 
 ```
 - [ ] Quality Assurance @A-M-Pearce
@@ -26,14 +28,6 @@ naming convention for shape and fgdb.
 - [ ] Move data to production shares @TNRIS/git-sba
 - [ ] Make collection public  @TNRIS/git-sba
 - [ ] Inform GIO staff of data availability @A-M-Pearce
-
-**QA|QC** 
- **(if collection is made public before 10am you can check after views are refreshed that day)**
- **(if collection is made public after 10am you can check after views are refreshed the next day)**
-- [ ] Review new collection card after it appears on data.tnris.org @TNRIS/stratmap 
-    1. Visually review text wording & formatting
-    2. All metadata complete and correct
-    3. Collection Footprint drawing properly
 
 **Twitter**
 - [ ] Draft X content, link, and image in Comment @A-M-Pearce
