@@ -2,8 +2,8 @@
 name: Imagery
 about: Incoming Imagery Dataset Collection
 title: "[Imagery Dataset Collection]"
-labels: Imagery, new dataset
-assignees: laurenkirk
+labels: Imagery
+assignees: LaurenKirk
 
 ---
 

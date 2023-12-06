@@ -1,8 +1,8 @@
 ---
 name: FDST Buildings Update
-about: FDST buildings update for an existing webservice 
+about: FDST buildings update for an existing webservice
 title: "[FDST Buildings Update]"
-labels: Data Update, new dataset
+labels: ''
 assignees: csidenblad, mpavon
 
 ---

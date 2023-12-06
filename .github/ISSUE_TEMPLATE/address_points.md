@@ -2,7 +2,7 @@
 name: Address Points
 about: Incoming Address Points Dataset Collection
 title: "[Address Points Dataset Collection]"
-labels: Address Points, new dataset
+labels: Address Points
 assignees: LaurenKirk
 
 ---

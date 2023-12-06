@@ -2,8 +2,8 @@
 name: Data Update
 about: Data Update for an existing collection
 title: "[Data Update]"
-labels: Data Update, new dataset
-assignees: ThorTheDestroyer, TNRIS/git-sba, LaurenKirk
+labels: ''
+assignees: LaurenKirk, ThorTheDestroyer
 
 ---
 
