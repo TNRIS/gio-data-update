@@ -52,4 +52,4 @@ assignees: LaurenKirk
 
 **Twitter**
 - [ ] Draft X content, link, and image in Comment @LaurenKirk 
-- [ ] Post X @lebell @space-longoria
+- [ ] Post X @gwenkruse
