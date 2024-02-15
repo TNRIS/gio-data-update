@@ -30,4 +30,4 @@ assignees: LaurenKirk, ThorTheDestroyer
 
 **Twitter** ***(if desired)***
 - [ ] Draft X content, link, and image in Comment 
-- [ ] Post X @lebell @space-longoria
+- [ ] Post X @gwenkruse
