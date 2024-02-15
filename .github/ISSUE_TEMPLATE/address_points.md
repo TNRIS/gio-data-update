@@ -3,7 +3,7 @@ name: Address Points
 about: Incoming Address Points Dataset Collection
 title: "[Address Points Dataset Collection]"
 labels: Address Points
-assignees: LaurenKirk
+assignees: creinier-TxGIO
 
 ---
 
@@ -12,9 +12,9 @@ assignees: LaurenKirk
 ## ***Please remove any task(s) that do not apply***
 
 **Data**
-- [ ] Add data to measures spreadsheet @LaurenKirk 
-- [ ] Route Data Shipment [copy data to TNRIS Projects share] @LaurenKirk
-- [ ] Data Processing [renaming file, data organization]  @LaurenKirk
+- [ ] Add data to measures spreadsheet @creinier-TxGIO
+- [ ] Route Data Shipment [copy data to TNRIS Projects share] @creinier-TxGIO
+- [ ] Data Processing [renaming file, data organization]  @creinier-TxGIO
 ```
 naming convention for shape and fgdb.
 stratmap19-addresspoints_fipscode_countyname_date.extension
@@ -26,14 +26,14 @@ stratmap19-addresspoints_48001_anderson_201904.gdb
 
 **API\data.tnris.org**
 - [ ] Create API collection @TNRIS/git-sba
-- [ ] Complete API console collection form including metadata and description @LaurenKirk 
-- [ ] Upload supplemental info (breaklines, reports, index) @LaurenKirk
+- [ ] Complete API console collection form including metadata and description @creinier-TxGIO 
+- [ ] Upload supplemental info (breaklines, reports, index) @creinier-TxGIO
 
 `If zip file is too large (more than 75MB) please let` @TNRIS/git-sba `know and the file can be loaded in another way.`
-- [ ] Crop & Upload Images @LaurenKirk
-- [ ] Review Description and Formatting @LaurenKirk
+- [ ] Crop & Upload Images @creinier-TxGIO
+- [ ] Review Description and Formatting @creinier-TxGIO
 - [ ] Add resources  @TNRIS/git-sba
-- [ ] Create Single polygon coverage, by merging all polygons together. @LaurenKirk
+- [ ] Create Single polygon coverage, by merging all polygons together. @creinier-TxGIO
 	1. If your area is county based please use the TxDOT Generalized Boundaries.
 	2. Use Editing Merge, not Merge Tool.    
 	3. No Vertices, holes, or donuts (unless to directly shows in the data)
@@ -45,7 +45,7 @@ stratmap19-addresspoints_48001_anderson_201904.gdb
 **Download\Prod**
 - [ ] Move data to production shares @TNRIS/git-sba
 - [ ] Make collection public  @TNRIS/git-sba
-- [ ] Inform GIO staff of data availability @LaurenKirk
+- [ ] Inform GIO staff of data availability @creinier-TxGIO
 
 **QA|QC** 
  **(if collection is made public before 10am you can check after views are refreshed that day)**
@@ -56,5 +56,5 @@ stratmap19-addresspoints_48001_anderson_201904.gdb
     3. Collection Footprint drawing properly
 
 **Twitter**
-- [ ] Draft X content, link, and image in Comment @LaurenKirk
-- [ ] Post X @lebell @space-longoria
+- [ ] Draft X content, link, and image in Comment @creinier-TxGIOk
+- [ ] Post X @gwenkruse
