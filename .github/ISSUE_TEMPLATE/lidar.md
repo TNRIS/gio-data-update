@@ -53,4 +53,4 @@ assignees: birdladyellen
 
 **Twitter**
 - [ ] Draft X content, link, and image in Comment @birdladyellen
-- [ ] Post X @lebell @space-longoria
+- [ ] Post X @gwenkruse
