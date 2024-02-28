@@ -26,5 +26,5 @@ file(s): MM-DD-YY_Roll-Frame.*
 - [ ] Quality Assurance @A-M-Pearce
 
 **Download\Prod**
-- [ ] Move data to production shares @TNRIS/git-sba
+- [ ] Move data to production s3 @TNRIS/git-sba
 - [ ] Inform GIO staff of data availability @A-M-Pearce
