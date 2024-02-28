@@ -13,8 +13,9 @@ assignees: A-M-Pearce
 
 **Data**
 - [ ] Add data to measures spreadsheet @A-M-Pearce 
-- [ ] Route Data Shipment [copy data to TxGIO Projects share] @A-M-Pearce
-- [ ] Data Processing [renaming file, data organization]  @A-M-Pearce
+- [ ] Data Processing [renaming file, data organization] @A-M-Pearce
+- [ ] Add records to Historic DB @A-M-Pearce
+- [ ] Make Historic collection public  @A-M-Pearce
 
 ```
 naming convention for folders and files.
@@ -26,5 +27,4 @@ file(s): MM-DD-YY_Roll-Frame.*
 
 **Download\Prod**
 - [ ] Move data to production shares @TNRIS/git-sba
-- [ ] Make collection public  @TNRIS/git-sba
 - [ ] Inform GIO staff of data availability @A-M-Pearce
